@@ -1,4 +1,4 @@
-[![GoDoc](https://godoc.org/github.com/KarpelesLab/clouddb?status.svg)](https://godoc.org/github.com/KarpelesLab/clouddb)
+[![GoDoc](https://godoc.org/github.com/KarpelesLab/fleetmail?status.svg)](https://godoc.org/github.com/KarpelesLab/fleetmail)
 
 # fleetmail
 
